@@ -59,8 +59,8 @@ interface RadioBoxProps {
 }
 
 const colors = {
-  green: '#E52E4D',
-  red: '#33CC95'
+  red: '#E52E4D',
+  green: '#33CC95'
 }
 
 export const RadioBox = styled.button<RadioBoxProps>`
